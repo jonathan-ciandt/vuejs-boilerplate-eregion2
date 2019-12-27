@@ -1,4 +1,4 @@
-# hello-world2
+# vuejs-boilerplate-eregion
 
 ## Project setup
 ```
