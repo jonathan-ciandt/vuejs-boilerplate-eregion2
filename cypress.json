@@ -1,0 +1,7 @@
+{
+  "integrationFolder": "tests/e2e/features",
+  "pluginsFile": "tests/e2e/plugins/index.js",
+  "supportFile": "tests/e2e/support/support.js",
+  "screenshotsFolder": "tests/e2e/screenshots",
+  "baseUrl": "http://localhost:8080/"
+}
